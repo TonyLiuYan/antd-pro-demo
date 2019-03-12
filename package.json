@@ -1,0 +1,16 @@
+{
+  "name": "antd-pro-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.4",
+    "umi": "^2.6.1"
+  }
+}
